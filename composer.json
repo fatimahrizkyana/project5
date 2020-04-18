@@ -1,0 +1,15 @@
+{
+    "name": "fatimah/tugas5-composer",
+    "description": "Untuk Kebutuhan Belajar Composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Fatimah Rizkyana",
+            "email": "fatimahrizkyananuraini@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
